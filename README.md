@@ -1,18 +1,3 @@
-<!--
-**Santiago503/Santiago503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ##### Hi 👋, I'm Santiago:
 - 🎓 I’m Computer and system engineer and Full Stack Developer
 - 😄 I have Passion for programming, problem-solving, and solution design
@@ -23,7 +8,7 @@ Here are some ideas to get you started:
 - Contact to me: 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-000000?style=flat&logo=telegram)](https://t.me/adamalston)
 [![Gmail](https://img.shields.io/badge/-GMAIL-000000?style=flat&logo=gmail)](mailto:santiago.503.es@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-encarnacion-smith-8260bb118)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/santiago-encarnacion-smith-8260bb118)
 
 ##### Some of the technologies I have worked with
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
