@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with a team a multi-site environment and 
 - ⚡ For fun i like to watch series and watch courses on udemy about my technologies
 - Contact to me: 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-000000?style=flat&logo=telegram)](https://t.me/adamalston)
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-000000?style=flat&logo=telegram)](https://t.me/santiago503)
 [![Gmail](https://img.shields.io/badge/-GMAIL-000000?style=flat&logo=gmail)](mailto:santiago.503.es@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/santiago-encarnacion-smith-8260bb118)
 
