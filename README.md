@@ -1,7 +1,7 @@
 ##### Hi 👋, I'm Santiago:
 - 🎓 I’m Computer and system engineer and Full Stack Developer
 - 😄 I have Passion for programming, problem-solving, and solution design
-- 🔭 I’m currently working on Pina Supply and Fundacion Mir Part Time
+- 🔭 I’m currently working on Claro Dominicana
 - 🌱 I’m currently learning Node.js with Nest.js, Docker
 - 👯 I’m looking to collaborate with a team a multi-site environment and 
 - ⚡ For fun i like to watch series and watch courses on udemy about my technologies
